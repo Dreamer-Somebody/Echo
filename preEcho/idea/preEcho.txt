@@ -6,7 +6,7 @@ Echo回声（heartless） app
 时刻保持创意
 
 内容: {
-    1.  发echo.
+    1.  发echo.（参照20、21点）
     2.  周围的echo泡泡拥入.
     3.  每日植树，和树的对话.
     4.  抑郁症积极文章.(爬取微信公众号的？)
@@ -27,7 +27,8 @@ Echo回声（heartless） app
 	17. 跃迁
 	18. 万相
 	19. 《Pride and prejudice》Lizzy speaking.
-	20. 《Journey》 发出的光
+	20. 《Journey》 发出的光（共鸣）
+	21. 无言的力量（鲤、风之旅人）
 }
 
 部分：{
