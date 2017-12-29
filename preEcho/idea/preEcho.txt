@@ -29,6 +29,12 @@ Echo回声（heartless） app
 	19. 《Pride and prejudice》Lizzy speaking.
 }
 
+部分：{
+	2. 万花瞳
+	3. 棱镜
+	4. 回声
+}
+
 形式:{
     1.  公众号？
     2.  APP嵌入webView？
