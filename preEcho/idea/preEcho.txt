@@ -29,6 +29,9 @@ Echo回声（heartless） app
 	19. 《Pride and prejudice》Lizzy speaking.
 	20. 《Journey》 发出的光（共鸣）
 	21. 无言的力量（鲤、风之旅人）
+	22. 矩阵
+	23. 层叠，z-index，transform3D
+	24. compass
 }
 
 部分：{
@@ -48,7 +51,17 @@ Echo回声（heartless） app
     物理库？
     websocket？
     vue+node
+	滑动
+	过渡
     安卓闪屏+闲时下载闪屏？
+}
+
+设计:{
+	配色：{
+		地址：http://www.uisdc.com/do-color-balance-method
+		1. 运用冷暖配色，背景为冷色，前景是暖色，这样我们的信息可读性会更强。
+		2. 深浅色运用的地方很多，比如我们的Ps和Ai。左深右浅、背景深、文字浅，这样的一个对比关系能拉开信息的层次。
+	}
 }
 
 一心一意将你做好。
